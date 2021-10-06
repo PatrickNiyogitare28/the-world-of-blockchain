@@ -1,2 +1,2 @@
-# the-world-of-blockchain
-Blockchain levelup apps repo
+# The Ethilium Todo List
+Decentralized Ethilium Todo app
