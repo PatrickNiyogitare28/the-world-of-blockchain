@@ -6,10 +6,14 @@ contract TodoList {
   struct Task{
     uint id;
     string content;
-    bool complited;
+    bool completed;
   }
   
   mapping(uint => Task) public tasks;
+
+  constructor() public {
+    createTask("Check out RCA");
+  }
 
   function createTask(string memory _content) public {
     taskCount++;
