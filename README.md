@@ -1,2 +1,2 @@
 # the-world-of-blockchain
-Blockchain levelup apps repo
+Ethilium Blochain, Smart Contract Development in Solidity
